@@ -31,6 +31,12 @@ Publish the website in the given URL.
 ## PROGRAM :
 
 ## OUTPUT:
+(i)
+![model](./bk1.png)
+(ii)
+![model](./bk2.png)
+## validation:
+![model](./bk3.png)
 
 ## Result:
-
+The program for designing a simple calculator using JavaScript css and html is executed successfully.
